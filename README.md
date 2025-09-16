@@ -1,2 +1,2 @@
 # tallercolaborativo
-Taller Colaborativo Aaron Villacis y Carlos Loor
+Taller Colaborativo Isaias Bajaña, Aaron Villacis y Carlos Loor
