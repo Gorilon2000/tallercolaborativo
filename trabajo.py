@@ -20,5 +20,6 @@ def imputar_outliers(df):
 
 df = pd.read_csv('3. ciclismo.csv')
 df_preprocesado = imputar_outliers(df)
-print("Antes del preprocesamiento:\n", df.head(), "\n")
-print("Después del preprocesamiento:\n", df_preprocesado.head())
+print('Preprocesado')
+print("Antes :\n", df.head(), "\n")
+print("Después:\n", df_preprocesado.head())
